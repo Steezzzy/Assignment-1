@@ -1,4 +1,4 @@
 <?
 $name = "Brenden Stuart Hernandez-Medina";
-ecg "Hello ".$name;
+echo "Hello ".$name;
 ?>
